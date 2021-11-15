@@ -47,7 +47,7 @@ I really doubt that, learning to code is hard and people read a lot about it and
 
 ### I'm no expert
 
-Nobody is! I've been coding for 20 years and I still think I'm no expert, by showing your perspective on the topics you just learned you are helping other amateurs on their journey.
+Nobody is! I've been coding for 20 years and I still don't think im an expert, by showing your perspective on the topics you just learned you are helping other amateurs on their journey.
 
 ### I don't have time
 
